@@ -1,0 +1,197 @@
+PODS:
+  - AgoraRtcEngine_iOS (2.3.1)
+  - Alamofire (4.8.0)
+  - AlamofireImage (3.5.0):
+    - Alamofire (~> 4.8)
+  - Cosmos (18.0.1)
+  - Crashlytics (3.12.0):
+    - Fabric (~> 1.9.0)
+  - EmptyDataSet-Swift (4.2.0)
+  - Fabric (1.9.0)
+  - Firebase/Core (5.20.1):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 5.8.0)
+  - Firebase/CoreOnly (5.20.1):
+    - FirebaseCore (= 5.4.1)
+  - FirebaseAnalytics (5.8.0):
+    - FirebaseCore (~> 5.4)
+    - FirebaseInstanceID (~> 3.8)
+    - GoogleAppMeasurement (= 5.8.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 5.2)
+    - GoogleUtilities/MethodSwizzler (~> 5.2)
+    - GoogleUtilities/Network (~> 5.2)
+    - "GoogleUtilities/NSData+zlib (~> 5.2)"
+    - nanopb (~> 0.3)
+  - FirebaseCore (5.4.1):
+    - GoogleUtilities/Environment (~> 5.2)
+    - GoogleUtilities/Logger (~> 5.2)
+  - FirebaseInstanceID (3.8.1):
+    - FirebaseCore (~> 5.2)
+    - GoogleUtilities/Environment (~> 5.2)
+    - GoogleUtilities/UserDefaults (~> 5.2)
+  - GoogleAppMeasurement (5.8.0):
+    - GoogleUtilities/AppDelegateSwizzler (~> 5.2)
+    - GoogleUtilities/MethodSwizzler (~> 5.2)
+    - GoogleUtilities/Network (~> 5.2)
+    - "GoogleUtilities/NSData+zlib (~> 5.2)"
+    - nanopb (~> 0.3)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - GoogleUtilities/AppDelegateSwizzler (5.5.0):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (5.5.0)
+  - GoogleUtilities/Logger (5.5.0):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (5.5.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (5.5.0):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (5.5.0)"
+  - GoogleUtilities/Reachability (5.5.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (5.5.0):
+    - GoogleUtilities/Logger
+  - ImageSlideshow (1.7.0):
+    - ImageSlideshow/Core (= 1.7.0)
+  - ImageSlideshow/Alamofire (1.7.0):
+    - AlamofireImage (~> 3.0)
+    - ImageSlideshow/Core
+  - ImageSlideshow/Core (1.7.0)
+  - INSPullToRefresh (1.2.0)
+  - IQKeyboardManagerSwift (6.2.0)
+  - KWVerificationCodeView (0.3.0)
+  - nanopb (0.3.901):
+    - nanopb/decode (= 0.3.901)
+    - nanopb/encode (= 0.3.901)
+  - nanopb/decode (0.3.901)
+  - nanopb/encode (0.3.901)
+  - NVActivityIndicatorView (4.5.0):
+    - NVActivityIndicatorView/Presenter (= 4.5.0)
+  - NVActivityIndicatorView/Presenter (4.5.0)
+  - RNNotificationView (3.1.0)
+  - SDWebImage (4.4.3):
+    - SDWebImage/Core (= 4.4.3)
+  - SDWebImage/Core (4.4.3)
+  - Shimmer (1.0.2)
+  - SIAlertView (1.3)
+  - Socket.IO-Client-Swift (13.4.0):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.6)
+  - Stripe (15.0.0)
+  - SwiftyJSON (4.2.0)
+  - SWRevealViewController (2.3.0)
+  - Toast-Swift (4.0.1)
+  - UIImageView-AGCInitials (0.0.2)
+  - VeeContactPicker (1.1):
+    - UIImageView-AGCInitials
+
+DEPENDENCIES:
+  - AgoraRtcEngine_iOS
+  - Alamofire
+  - Cosmos
+  - Crashlytics
+  - EmptyDataSet-Swift
+  - Fabric
+  - Firebase/Core
+  - GoogleMaps
+  - GooglePlaces
+  - ImageSlideshow
+  - ImageSlideshow/Alamofire
+  - INSPullToRefresh
+  - IQKeyboardManagerSwift
+  - KWVerificationCodeView
+  - NVActivityIndicatorView
+  - RNNotificationView
+  - SDWebImage
+  - Shimmer
+  - SIAlertView
+  - Socket.IO-Client-Swift
+  - Stripe
+  - SwiftyJSON
+  - SWRevealViewController
+  - Toast-Swift
+  - VeeContactPicker
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AgoraRtcEngine_iOS
+    - Alamofire
+    - AlamofireImage
+    - Cosmos
+    - Crashlytics
+    - EmptyDataSet-Swift
+    - Fabric
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseInstanceID
+    - GoogleAppMeasurement
+    - GoogleMaps
+    - GooglePlaces
+    - GoogleUtilities
+    - ImageSlideshow
+    - INSPullToRefresh
+    - IQKeyboardManagerSwift
+    - KWVerificationCodeView
+    - nanopb
+    - NVActivityIndicatorView
+    - RNNotificationView
+    - SDWebImage
+    - Shimmer
+    - SIAlertView
+    - Socket.IO-Client-Swift
+    - Starscream
+    - Stripe
+    - SwiftyJSON
+    - SWRevealViewController
+    - Toast-Swift
+    - UIImageView-AGCInitials
+    - VeeContactPicker
+
+SPEC CHECKSUMS:
+  AgoraRtcEngine_iOS: b0304fee470e0b88bd3abedf9ce1c4309f4fd722
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  AlamofireImage: 1aea346f4dda2f6c67622fa5a89fcbb80d79cc16
+  Cosmos: 7dfaa3f52584ca5f94ab74b5c2e264019cc9f7f5
+  Crashlytics: 07fb167b1694128c1c9a5a5cc319b0e9c3ca0933
+  EmptyDataSet-Swift: 1fa0b35f530a35f852ecb2b53564728b0c300aaf
+  Fabric: f988e33c97f08930a413e08123064d2e5f68d655
+  Firebase: 2f5235e62f141cb86181c3af0dfe4509706351ac
+  FirebaseAnalytics: fd72a26bf8dac84cefba2f0864366f718555a5b0
+  FirebaseCore: f1a9a8be1aee4bf71a2fc0f4096df6788bdfda61
+  FirebaseInstanceID: a122b0c258720cf250551bb2bedf48c699f80d90
+  GoogleAppMeasurement: 1624046ab1bcc5e170061a56ef5679000b079c8e
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  GoogleUtilities: 6481e6318c5fcabaaa8513ef8120f329055d7c10
+  ImageSlideshow: f8eec5e37a980f60923b585ff23b0e140fd24018
+  INSPullToRefresh: d34f0046ccca6b32f6386f053d730ef41b3f35b7
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  KWVerificationCodeView: ad0d493e30d203c45f21f3d7b6a4d2b64be53252
+  nanopb: 2901f78ea1b7b4015c860c2fdd1ea2fee1a18d48
+  NVActivityIndicatorView: 1e4e3ed79248cf1666af182593c3a2acf0fcf193
+  RNNotificationView: 3918f70c9e094a309d9e0691195d5ad33ce9e9d7
+  SDWebImage: c5594f1a19c48d526d321e548902b56b479cd508
+  Shimmer: c5374be1c2b0c9e292fb05b339a513cf291cac86
+  SIAlertView: 20c794b55eaf44d888773ea51647cf8907723919
+  Socket.IO-Client-Swift: 2b2720f14c92ff1237ced09bc2f2da2022624fee
+  Starscream: ef3ece99d765eeccb67de105bfa143f929026cf5
+  Stripe: 312b22a67af9fa55c246d26148b3f3a9636a0ff2
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  SWRevealViewController: 6d3fd97f70112fd7cef9de14df4260eacce4c63a
+  Toast-Swift: e42a638589a2f95036b4bb7626cfbdde7daf0393
+  UIImageView-AGCInitials: 4326faf01587dbfa2ffdee7e596ae96c1beca05c
+  VeeContactPicker: a0d5371a4e59c4afa20d80f3d67e65c90cc401e5
+
+PODFILE CHECKSUM: 5f5a1233a30a1614acd465773509aba74e15c65d
+
+COCOAPODS: 1.5.3

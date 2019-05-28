@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  Instacam
+
+  Created by Apple on 20/05/19.
+  Copyright © 2019 Apple. All rights reserved.
+*/
+
+NSLocationWhenInUseUsageDescription = "Allow your current location will show you near by streamers.";
+NSCameraUsageDescription = "This let's you take photos and upload them to the platform.";
+NSMicrophoneUsageDescription = "This app requires Mmicrophone access to function properly.";
+NSPhotoLibraryUsageDescription = "This let's you take photos and upload them to the platform.";
+NSContactsUsageDescription = "This app requires contacts access to share referral code.";

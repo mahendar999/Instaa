@@ -1,0 +1,486 @@
+
+/* Class = "UILabel"; text = "You rated Mahesh"; ObjectID = "094-Da-9EL"; */
+"094-Da-9EL.text" = "You rated Mahesh";
+
+/* Class = "UIButton"; normalTitle = "Start Video"; ObjectID = "1wA-Hc-kVi"; */
+"1wA-Hc-kVi.normalTitle" = "Start Video";
+
+/* Class = "UITextField"; placeholder = "Phone Number or Email"; ObjectID = "2Ik-Lw-WiP"; */
+"2Ik-Lw-WiP.placeholder" = "Phone Number or Email";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "2LM-ec-SpI"; */
+"2LM-ec-SpI.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Estimated Time"; ObjectID = "2dG-cD-3rr"; */
+"2dG-cD-3rr.text" = "Estimated Time";
+
+/* Class = "UILabel"; text = "9 min"; ObjectID = "2f2-0I-QoA"; */
+"2f2-0I-QoA.text" = "9 min";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "2fs-I7-WW9"; */
+"2fs-I7-WW9.text" = "Location";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "2x0-To-07v"; */
+"2x0-To-07v.normalTitle" = "Done";
+
+/* Class = "UIButton"; normalTitle = "Report User"; ObjectID = "32C-Ws-UjC"; */
+"32C-Ws-UjC.normalTitle" = "Report User";
+
+/* Class = "UILabel"; text = "$22.00"; ObjectID = "3t5-7r-8XJ"; */
+"3t5-7r-8XJ.text" = "$22.00";
+
+/* Class = "UILabel"; text = "Calling"; ObjectID = "44Z-Bk-Ffs"; */
+"44Z-Bk-Ffs.text" = "Calling";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "4GX-4b-0XB"; */
+"4GX-4b-0XB.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "25%"; ObjectID = "4PH-CZ-yly"; */
+"4PH-CZ-yly.text" = "25%";
+
+/* Class = "UILabel"; text = "Accepted"; ObjectID = "4QV-mU-ct6"; */
+"4QV-mU-ct6.text" = "Accepted";
+
+/* Class = "UILabel"; text = "Add Account"; ObjectID = "4Wt-IR-DlU"; */
+"4Wt-IR-DlU.text" = "Add Account";
+
+/* Class = "UILabel"; text = "Connecting..."; ObjectID = "58x-w5-dT1"; */
+"58x-w5-dT1.text" = "Connecting...";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "5ah-E5-7k6"; */
+"5ah-E5-7k6.placeholder" = "New Password";
+
+/* Class = "UILabel"; text = "Thanks for streaming! Please rate your viewer."; ObjectID = "5fN-Cu-Ti1"; */
+"5fN-Cu-Ti1.text" = "Thanks for streaming! Please rate your viewer.";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "6SS-iA-Iwu"; */
+"6SS-iA-Iwu.placeholder" = "Location";
+
+/* Class = "UIButton"; normalTitle = "Invite Friends"; ObjectID = "6yA-xz-GpY"; */
+"6yA-xz-GpY.normalTitle" = "Invite Friends";
+
+/* Class = "UILabel"; text = " Abc has accepted your rquest!"; ObjectID = "7gR-om-hzo"; */
+"7gR-om-hzo.text" = " Abc has accepted your rquest!";
+
+/* Class = "UILabel"; text = "Want to see the good things about this places."; ObjectID = "7yh-3L-miP"; */
+"7yh-3L-miP.text" = "Want to see the good things about this places.";
+
+/* Class = "UILabel"; text = "Enter 4 Digit Code"; ObjectID = "9Mn-NY-Vwc"; */
+"9Mn-NY-Vwc.text" = "Enter 4 Digit Code";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "9w8-Zv-WhD"; */
+"9w8-Zv-WhD.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "MIT"; ObjectID = "9y8-n3-dWP"; */
+"9y8-n3-dWP.text" = "MIT";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "AMW-04-rmC"; */
+"AMW-04-rmC.text" = "Label";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "APL-CF-1LD"; */
+"APL-CF-1LD.text" = "Forgot Password";
+
+/* Class = "UILabel"; text = "Share Your Invite Code"; ObjectID = "AeE-5r-605"; */
+"AeE-5r-605.text" = "Share Your Invite Code";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "B1P-ZN-egj"; */
+"B1P-ZN-egj.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BEU-v5-UoW"; */
+"BEU-v5-UoW.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Agree"; ObjectID = "BSB-U6-z81"; */
+"BSB-U6-z81.normalTitle" = "Agree";
+
+/* Class = "UILabel"; text = "Calling"; ObjectID = "CgD-HF-Lyg"; */
+"CgD-HF-Lyg.text" = "Calling";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "DTt-4q-vUg"; */
+"DTt-4q-vUg.normalTitle" = "Forgot Password?";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "Dwx-n7-VZN"; */
+"Dwx-n7-VZN.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Add a tip for"; ObjectID = "E19-rL-Fow"; */
+"E19-rL-Fow.text" = "Add a tip for";
+
+/* Class = "UILabel"; text = "We'll send you a text with confirmation code."; ObjectID = "EDi-Sl-TON"; */
+"EDi-Sl-TON.text" = "We'll send you a text with confirmation code.";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "EFE-Jh-4HT"; */
+"EFE-Jh-4HT.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "F0R-hg-ISA"; */
+"F0R-hg-ISA.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Report User"; ObjectID = "H8r-0T-lai"; */
+"H8r-0T-lai.normalTitle" = "Report User";
+
+/* Class = "UILabel"; text = "9 min"; ObjectID = "HcB-DT-IgP"; */
+"HcB-DT-IgP.text" = "9 min";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "Hmt-KX-ZgA"; */
+"Hmt-KX-ZgA.normalTitle" = "X";
+
+/* Class = "UILabel"; text = " Abc has accepted your rquest!"; ObjectID = "Htg-nR-qy2"; */
+"Htg-nR-qy2.text" = " Abc has accepted your rquest!";
+
+/* Class = "UILabel"; text = "gfgfng"; ObjectID = "ISe-Jf-bah"; */
+"ISe-Jf-bah.text" = "gfgfng";
+
+/* Class = "UILabel"; text = "Instacam!"; ObjectID = "Idx-vU-jQb"; */
+"Idx-vU-jQb.text" = "Instacam!";
+
+/* Class = "UILabel"; text = "Please rate your viewer."; ObjectID = "J0U-n1-ZjM"; */
+"J0U-n1-ZjM.text" = "Please rate your viewer.";
+
+/* Class = "UILabel"; text = "20%"; ObjectID = "JeS-9g-2cZ"; */
+"JeS-9g-2cZ.text" = "20%";
+
+/* Class = "UILabel"; text = "Share the Instacam love and give friends free streams to try Instacam. Worth up to $1.00 each!"; ObjectID = "Jfe-gR-YDL"; */
+"Jfe-gR-YDL.text" = "Share the Instacam love and give friends free streams to try Instacam. Worth up to $1.00 each!";
+
+/* Class = "UIButton"; normalTitle = "Okay"; ObjectID = "Jzn-Th-1rc"; */
+"Jzn-Th-1rc.normalTitle" = "Okay";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "K4X-2Y-wtw"; */
+"K4X-2Y-wtw.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "KHf-ce-f3V"; */
+"KHf-ce-f3V.normalTitle" = "Skip";
+
+/* Class = "UILabel"; text = "Patrick is on his way to MIT"; ObjectID = "KHz-HP-tSb"; */
+"KHz-HP-tSb.text" = "Patrick is on his way to MIT";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Lgk-bn-2XM"; */
+"Lgk-bn-2XM.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Decline"; ObjectID = "MvT-Qo-3yI"; */
+"MvT-Qo-3yI.text" = "Decline";
+
+/* Class = "UILabel"; text = "0.5 mi"; ObjectID = "Mvm-Tn-7Rh"; */
+"Mvm-Tn-7Rh.text" = "0.5 mi";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "NFH-ug-zWn"; */
+"NFH-ug-zWn.normalTitle" = "Done";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "NjM-p3-TlG"; */
+"NjM-p3-TlG.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "Say Something..."; ObjectID = "OSs-Gr-rrX"; */
+"OSs-Gr-rrX.placeholder" = "Say Something...";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "Oyx-wk-4Qt"; */
+"Oyx-wk-4Qt.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PeU-ke-RNE"; */
+"PeU-ke-RNE.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Okey"; ObjectID = "QRa-9E-BaN"; */
+"QRa-9E-BaN.normalTitle" = "Okey";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "QTc-Lc-D3Y"; */
+"QTc-Lc-D3Y.text" = "Notifications";
+
+/* Class = "UILabel"; text = "End Call"; ObjectID = "QfR-VV-ylX"; */
+"QfR-VV-ylX.text" = "End Call";
+
+/* Class = "UILabel"; text = "Welcome to"; ObjectID = "RbE-Hv-sNl"; */
+"RbE-Hv-sNl.text" = "Welcome to";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Rhy-gy-jpU"; */
+"Rhy-gy-jpU.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Accept"; ObjectID = "SNp-ef-rsY"; */
+"SNp-ef-rsY.text" = "Accept";
+
+/* Class = "UILabel"; text = "Estimated Time"; ObjectID = "Syu-TE-ocb"; */
+"Syu-TE-ocb.text" = "Estimated Time";
+
+/* Class = "UIButton"; normalTitle = "Resend code"; ObjectID = "T9v-Hb-RnF"; */
+"T9v-Hb-RnF.normalTitle" = "Resend code";
+
+/* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "Txu-V4-wJw"; */
+"Txu-V4-wJw.normalTitle" = "Change Password";
+
+/* Class = "UITextField"; placeholder = "Custom Tip Amount"; ObjectID = "U4n-0o-Vyy"; */
+"U4n-0o-Vyy.placeholder" = "Custom Tip Amount";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "UQH-Ed-I1g"; */
+"UQH-Ed-I1g.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "Welcome to"; ObjectID = "Urm-82-NHj"; */
+"Urm-82-NHj.text" = "Welcome to";
+
+/* Class = "UILabel"; text = "Want to see the good things about this places."; ObjectID = "V1b-Qx-QCX"; */
+"V1b-Qx-QCX.text" = "Want to see the good things about this places.";
+
+/* Class = "UILabel"; text = "DISTANCE"; ObjectID = "VK4-dv-eDx"; */
+"VK4-dv-eDx.text" = "DISTANCE";
+
+/* Class = "UITextField"; placeholder = "Say Something..."; ObjectID = "Vlh-Ba-Yzh"; */
+"Vlh-Ba-Yzh.placeholder" = "Say Something...";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "Vxh-Le-YLr"; */
+"Vxh-Le-YLr.text" = "Privacy Policy";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "WCK-Oi-a2Z"; */
+"WCK-Oi-a2Z.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Instacam"; ObjectID = "WHm-oy-ECn"; */
+"WHm-oy-ECn.text" = "Instacam";
+
+/* Class = "UILabel"; text = "Estimated Time"; ObjectID = "WKy-qE-Uju"; */
+"WKy-qE-Uju.text" = "Estimated Time";
+
+/* Class = "UILabel"; text = "Estimated Time: 20 min  |  Estimated Price: $3.50"; ObjectID = "WPV-tb-2vq"; */
+"WPV-tb-2vq.text" = "Estimated Time: 20 min  |  Estimated Price: $3.50";
+
+/* Class = "UILabel"; text = "Estimated Time"; ObjectID = "Wd9-6x-xTg"; */
+"Wd9-6x-xTg.text" = "Estimated Time";
+
+/* Class = "UILabel"; text = "TIME"; ObjectID = "XOy-mI-Rkk"; */
+"XOy-mI-Rkk.text" = "TIME";
+
+/* Class = "UILabel"; text = "Please wait while we find a match!"; ObjectID = "XWY-3D-gm3"; */
+"XWY-3D-gm3.text" = "Please wait while we find a match!";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "XaO-D0-GwS"; */
+"XaO-D0-GwS.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "Request"; ObjectID = "Yak-b1-aif"; */
+"Yak-b1-aif.text" = "Request";
+
+/* Class = "UILabel"; text = "See anywhere, anytime"; ObjectID = "Yj2-Ul-1df"; */
+"Yj2-Ul-1df.text" = "See anywhere, anytime";
+
+/* Class = "UILabel"; text = "How Invites Work"; ObjectID = "Yx6-DY-9Bz"; */
+"Yx6-DY-9Bz.text" = "How Invites Work";
+
+/* Class = "UILabel"; text = "Please get ready!"; ObjectID = "Z1L-JT-dx8"; */
+"Z1L-JT-dx8.text" = "Please get ready!";
+
+/* Class = "UILabel"; text = "Community Guidelines"; ObjectID = "Zv6-h0-YNx"; */
+"Zv6-h0-YNx.text" = "Community Guidelines";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "aHa-1y-wj9"; */
+"aHa-1y-wj9.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Welcome to"; ObjectID = "anQ-JE-fXm"; */
+"anQ-JE-fXm.text" = "Welcome to";
+
+/* Class = "UILabel"; text = "BIO"; ObjectID = "azM-GF-zvf"; */
+"azM-GF-zvf.text" = "BIO";
+
+/* Class = "UIButton"; normalTitle = "In-progress Stream Request"; ObjectID = "b9d-qF-qki"; */
+"b9d-qF-qki.normalTitle" = "In-progress Stream Request";
+
+/* Class = "UILabel"; text = "Turn on Location Services"; ObjectID = "bJb-mn-w2f"; */
+"bJb-mn-w2f.text" = "Turn on Location Services";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bZZ-Dm-VYE"; */
+"bZZ-Dm-VYE.text" = "Label";
+
+/* Class = "UILabel"; text = "Welcome to"; ObjectID = "buS-Fj-b3C"; */
+"buS-Fj-b3C.text" = "Welcome to";
+
+/* Class = "UILabel"; text = "Instacam"; ObjectID = "cT7-tc-9OY"; */
+"cT7-tc-9OY.text" = "Instacam";
+
+/* Class = "UILabel"; text = "Instacam"; ObjectID = "dQ1-c4-kBZ"; */
+"dQ1-c4-kBZ.text" = "Instacam";
+
+/* Class = "UIButton"; normalTitle = "Deactivate Account"; ObjectID = "dRW-Ie-3PV"; */
+"dRW-Ie-3PV.normalTitle" = "Deactivate Account";
+
+/* Class = "UITextField"; placeholder = "Confirm New Password"; ObjectID = "dfD-vP-hjM"; */
+"dfD-vP-hjM.placeholder" = "Confirm New Password";
+
+/* Class = "UITextField"; placeholder = "Languages"; ObjectID = "djd-aY-4oD"; */
+"djd-aY-4oD.placeholder" = "Languages";
+
+/* Class = "UILabel"; text = "Patric has reached MIT"; ObjectID = "dkj-2r-gey"; */
+"dkj-2r-gey.text" = "Patric has reached MIT";
+
+/* Class = "UILabel"; text = "Welcome to"; ObjectID = "e3o-VE-mLM"; */
+"e3o-VE-mLM.text" = "Welcome to";
+
+/* Class = "UIButton"; normalTitle = "Call will begin shortly"; ObjectID = "eR5-2J-dOz"; */
+"eR5-2J-dOz.normalTitle" = "Call will begin shortly";
+
+/* Class = "UIButton"; normalTitle = "Login with Phone Number"; ObjectID = "eSd-6Z-AJJ"; */
+"eSd-6Z-AJJ.normalTitle" = "Login with Phone Number";
+
+/* Class = "UILabel"; text = "FAQ"; ObjectID = "ebL-Jm-74Z"; */
+"ebL-Jm-74Z.text" = "FAQ";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "elI-X6-chg"; */
+"elI-X6-chg.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fg7-hq-hLi"; */
+"fg7-hq-hLi.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Current Password"; ObjectID = "fgz-o2-pDF"; */
+"fgz-o2-pDF.placeholder" = "Current Password";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "fsv-YR-Unh"; */
+"fsv-YR-Unh.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "grb-ZK-p0E"; */
+"grb-ZK-p0E.text" = "Label";
+
+/* Class = "UILabel"; text = "MIT"; ObjectID = "hBo-q4-V4E"; */
+"hBo-q4-V4E.text" = "MIT";
+
+/* Class = "UILabel"; text = "Send your friends free streams"; ObjectID = "hkL-s7-yYa"; */
+"hkL-s7-yYa.text" = "Send your friends free streams";
+
+/* Class = "UILabel"; text = "Turn on Location Services"; ObjectID = "hwz-WG-GE6"; */
+"hwz-WG-GE6.text" = "Turn on Location Services";
+
+/* Class = "UILabel"; text = "15%"; ObjectID = "iRh-oj-r7m"; */
+"iRh-oj-r7m.text" = "15%";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "ine-3n-xVs"; */
+"ine-3n-xVs.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "itO-4D-Kaa"; */
+"itO-4D-Kaa.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "To Current Location"; ObjectID = "jIN-KJ-YJx"; */
+"jIN-KJ-YJx.text" = "To Current Location";
+
+/* Class = "UILabel"; text = "Thanks for streaming! Please rate your viewer."; ObjectID = "jQt-2o-zsp"; */
+"jQt-2o-zsp.text" = "Thanks for streaming! Please rate your viewer.";
+
+/* Class = "UILabel"; text = "Instacam"; ObjectID = "je8-LQ-2Oe"; */
+"je8-LQ-2Oe.text" = "Instacam";
+
+/* Class = "UILabel"; text = "Please rate your viewer."; ObjectID = "joy-Jg-Cqh"; */
+"joy-Jg-Cqh.text" = "Please rate your viewer.";
+
+/* Class = "UILabel"; text = "STOP HERE"; ObjectID = "kCD-lH-u5g"; */
+"kCD-lH-u5g.text" = "STOP HERE";
+
+/* Class = "UILabel"; text = "Not Connected"; ObjectID = "kDp-et-paP"; */
+"kDp-et-paP.text" = "Not Connected";
+
+/* Class = "UILabel"; text = "Time Left"; ObjectID = "kEK-Eb-2hj"; */
+"kEK-Eb-2hj.text" = "Time Left";
+
+/* Class = "UITextField"; placeholder = "Referral Code (Optional)"; ObjectID = "kIj-Jz-yAx"; */
+"kIj-Jz-yAx.placeholder" = "Referral Code (Optional)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kWa-fl-EDy"; */
+"kWa-fl-EDy.text" = "Label";
+
+/* Class = "UILabel"; text = "Estimated Price"; ObjectID = "kpG-7t-UAE"; */
+"kpG-7t-UAE.text" = "Estimated Price";
+
+/* Class = "UILabel"; text = "Your password will be reset and new password would be sent to your registered Email or Phone Number."; ObjectID = "l98-Dq-Mu8"; */
+"l98-Dq-Mu8.text" = "Your password will be reset and new password would be sent to your registered Email or Phone Number.";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "l9d-Vu-VJl"; */
+"l9d-Vu-VJl.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "To MIT"; ObjectID = "laO-J6-gLn"; */
+"laO-J6-gLn.text" = "To MIT";
+
+/* Class = "UILabel"; text = "$22.00"; ObjectID = "lyd-Re-gJB"; */
+"lyd-Re-gJB.text" = "$22.00";
+
+/* Class = "UILabel"; text = "Turn on Location Services"; ObjectID = "nP7-qx-KqS"; */
+"nP7-qx-KqS.text" = "Turn on Location Services";
+
+/* Class = "UILabel"; text = "Please turn on Location Services or our app won't work properly."; ObjectID = "nYX-ZG-ju5"; */
+"nYX-ZG-ju5.text" = "Please turn on Location Services or our app won't work properly.";
+
+/* Class = "UILabel"; text = "Sent!"; ObjectID = "nls-O5-Wws"; */
+"nls-O5-Wws.text" = "Sent!";
+
+/* Class = "UIButton"; normalTitle = "Sign Out"; ObjectID = "o6H-gW-DdE"; */
+"o6H-gW-DdE.normalTitle" = "Sign Out";
+
+/* Class = "UITextField"; placeholder = "Where do you want to see?"; ObjectID = "ocR-dU-pV8"; */
+"ocR-dU-pV8.placeholder" = "Where do you want to see?";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "poc-x0-nRU"; */
+"poc-x0-nRU.normalTitle" = "Sign Up";
+
+/* Class = "UITextField"; placeholder = "Device"; ObjectID = "qLC-iL-teG"; */
+"qLC-iL-teG.placeholder" = "Device";
+
+/* Class = "UILabel"; text = "Instacam"; ObjectID = "qd1-bR-7Vr"; */
+"qd1-bR-7Vr.text" = "Instacam";
+
+/* Class = "UILabel"; text = "Please stay online while streamer reaches site"; ObjectID = "qsd-Af-gE0"; */
+"qsd-Af-gE0.text" = "Please stay online while streamer reaches site";
+
+/* Class = "UIButton"; normalTitle = "Decline"; ObjectID = "sFf-RH-loU"; */
+"sFf-RH-loU.normalTitle" = "Decline";
+
+/* Class = "UILabel"; text = "Estimated Time: 20 min  |  Estimated Price: $3.50"; ObjectID = "sms-ce-PaD"; */
+"sms-ce-PaD.text" = "Estimated Time: 20 min  |  Estimated Price: $3.50";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "srE-NO-j3k"; */
+"srE-NO-j3k.normalTitle" = "X";
+
+/* Class = "UIButton"; normalTitle = "Verify"; ObjectID = "u7T-bx-kJJ"; */
+"u7T-bx-kJJ.normalTitle" = "Verify";
+
+/* Class = "UILabel"; text = "22:00"; ObjectID = "vAB-Mi-IDC"; */
+"vAB-Mi-IDC.text" = "22:00";
+
+/* Class = "UIButton"; normalTitle = "Not Now"; ObjectID = "vXL-hD-JoV"; */
+"vXL-hD-JoV.normalTitle" = "Not Now";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "w63-2z-0UO"; */
+"w63-2z-0UO.placeholder" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "w8s-vy-c4Z"; */
+"w8s-vy-c4Z.normalTitle" = "Accept";
+
+/* Class = "UIButton"; normalTitle = "  I have read and accept the terms and conditions"; ObjectID = "wTz-Cf-M4S"; */
+"wTz-Cf-M4S.normalTitle" = "  I have read and accept the terms and conditions";
+
+/* Class = "UILabel"; text = "3.4"; ObjectID = "wVW-fu-khb"; */
+"wVW-fu-khb.text" = "3.4";
+
+/* Class = "UILabel"; text = "Leaving Now"; ObjectID = "wXd-Ol-m2F"; */
+"wXd-Ol-m2F.text" = "Leaving Now";
+
+/* Class = "UILabel"; text = "22:00"; ObjectID = "wXg-i9-emh"; */
+"wXg-i9-emh.text" = "22:00";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "wgQ-dq-sn6"; */
+"wgQ-dq-sn6.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Welcome to"; ObjectID = "wqz-hm-DW1"; */
+"wqz-hm-DW1.text" = "Welcome to";
+
+/* Class = "UILabel"; text = "Cancelled"; ObjectID = "wvF-Hu-A9V"; */
+"wvF-Hu-A9V.text" = "Cancelled";
+
+/* Class = "UILabel"; text = "We'll send you a text with confirmation code."; ObjectID = "y6a-GO-7Je"; */
+"y6a-GO-7Je.text" = "We'll send you a text with confirmation code.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "y86-Ug-oNs"; */
+"y86-Ug-oNs.text" = "Label";
+
+/* Class = "UILabel"; text = "Instacam"; ObjectID = "yDC-Iu-bEZ"; */
+"yDC-Iu-bEZ.text" = "Instacam";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "yEz-fX-3Zu"; */
+"yEz-fX-3Zu.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Add Card"; ObjectID = "z2m-ad-iEc"; */
+"z2m-ad-iEc.text" = "Add Card";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "zAe-tC-Vmm"; */
+"zAe-tC-Vmm.normalTitle" = "Skip";
+
+/* Class = "UILabel"; text = "0.4 mi"; ObjectID = "zUm-Gy-FlJ"; */
+"zUm-Gy-FlJ.text" = "0.4 mi";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "znV-Ok-rJi"; */
+"znV-Ok-rJi.text" = "Label";

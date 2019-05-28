@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="CellTimeSlots" customModule="Instacam" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="100" height="40"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="XIR-Fz-VLi">
+                    <rect key="frame" x="0.0" y="0.0" width="85" height="40"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kR5-HN-sT6">
+                            <rect key="frame" x="10" y="8" width="65" height="24"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="bottom" secondItem="kR5-HN-sT6" secondAttribute="bottom" constant="8" id="3Tc-8o-OdT"/>
+                        <constraint firstAttribute="trailing" secondItem="kR5-HN-sT6" secondAttribute="trailing" constant="10" id="CKo-ep-41B"/>
+                        <constraint firstItem="kR5-HN-sT6" firstAttribute="top" secondItem="XIR-Fz-VLi" secondAttribute="top" constant="8" id="pNc-2A-QeV"/>
+                        <constraint firstItem="kR5-HN-sT6" firstAttribute="leading" secondItem="XIR-Fz-VLi" secondAttribute="leading" constant="10" id="vxv-KF-hXD"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="XIR-Fz-VLi" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" constant="-15" id="EfF-Gn-pPw"/>
+                <constraint firstItem="XIR-Fz-VLi" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="ZDJ-fA-Xwf"/>
+                <constraint firstItem="XIR-Fz-VLi" firstAttribute="bottom" secondItem="vUN-kp-3ea" secondAttribute="bottom" id="eMN-0e-zYL"/>
+                <constraint firstItem="XIR-Fz-VLi" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="ofe-Vi-B1p"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="lblValue" destination="kR5-HN-sT6" id="Zph-4k-Of0"/>
+                <outlet property="vwBackground" destination="XIR-Fz-VLi" id="LHn-z2-g9n"/>
+            </connections>
+            <point key="canvasLocation" x="89.599999999999994" y="413.79310344827587"/>
+        </view>
+    </objects>
+</document>

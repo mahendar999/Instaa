@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="FeaturedLocationsView" customModule="Instacam" customModuleProvider="target">
+            <connections>
+                <outlet property="btnSegmentOutlet" destination="a8h-OD-fcm" id="tg4-8s-KCQ"/>
+                <outlet property="btnStripOutlet" destination="mWM-Nz-evc" id="vLj-A9-H9e"/>
+                <outlet property="componentsView" destination="GHj-sm-zgs" id="cWa-Mx-4Fm"/>
+                <outlet property="contentView" destination="Jd8-a8-iXx" id="XZO-9s-i1p"/>
+                <outlet property="lblHeading" destination="sKW-bU-4Tn" id="7jz-mr-u5O"/>
+                <outlet property="vwTable" destination="Qg9-Bk-c5e" id="sQx-V3-WAH"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="Jd8-a8-iXx">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="350"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Cpl-8J-K18">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="350"/>
+                    <subviews>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="y32-vG-PmB">
+                            <rect key="frame" x="0.0" y="0.0" width="375" height="50"/>
+                            <subviews>
+                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="5gi-M3-zSr">
+                                    <rect key="frame" x="170" y="15" width="35" height="5"/>
+                                    <color key="backgroundColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <constraints>
+                                        <constraint firstAttribute="height" constant="5" id="Bcx-Pa-zM0"/>
+                                        <constraint firstAttribute="width" constant="35" id="C1v-2m-BL7"/>
+                                    </constraints>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                            <real key="value" value="2.5"/>
+                                        </userDefinedRuntimeAttribute>
+                                    </userDefinedRuntimeAttributes>
+                                </view>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Explore featured locations and events" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sKW-bU-4Tn" customClass="UILocalizedLabel" customModule="Instacam" customModuleProvider="target">
+                                    <rect key="frame" x="20" y="25" width="335" height="25"/>
+                                    <fontDescription key="fontDescription" name="Avenir-Medium" family="Avenir" pointSize="15"/>
+                                    <color key="textColor" name="AppDarkSkyBlue"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mWM-Nz-evc">
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="50"/>
+                                    <connections>
+                                        <action selector="btnPressedOnStrip:" destination="-1" eventType="touchUpInside" id="1BL-8F-xgp"/>
+                                    </connections>
+                                </button>
+                            </subviews>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstItem="sKW-bU-4Tn" firstAttribute="leading" secondItem="y32-vG-PmB" secondAttribute="leading" constant="20" id="1Ks-Vk-WSv"/>
+                                <constraint firstAttribute="trailing" secondItem="mWM-Nz-evc" secondAttribute="trailing" id="BNw-4w-0KV"/>
+                                <constraint firstItem="5gi-M3-zSr" firstAttribute="centerX" secondItem="y32-vG-PmB" secondAttribute="centerX" id="HcH-5U-Xgn"/>
+                                <constraint firstAttribute="bottom" secondItem="sKW-bU-4Tn" secondAttribute="bottom" id="SMe-sn-tHT"/>
+                                <constraint firstAttribute="bottom" secondItem="mWM-Nz-evc" secondAttribute="bottom" id="bj1-um-u1J"/>
+                                <constraint firstAttribute="height" constant="50" id="cTF-xK-5No"/>
+                                <constraint firstItem="mWM-Nz-evc" firstAttribute="leading" secondItem="y32-vG-PmB" secondAttribute="leading" id="dH5-cd-cGR"/>
+                                <constraint firstItem="mWM-Nz-evc" firstAttribute="top" secondItem="y32-vG-PmB" secondAttribute="top" id="dex-yo-1cb"/>
+                                <constraint firstItem="5gi-M3-zSr" firstAttribute="centerY" secondItem="y32-vG-PmB" secondAttribute="centerY" multiplier="0.7" id="g9B-EO-eY1"/>
+                                <constraint firstAttribute="trailing" secondItem="sKW-bU-4Tn" secondAttribute="trailing" constant="20" id="lh4-yn-8HI"/>
+                                <constraint firstItem="sKW-bU-4Tn" firstAttribute="top" secondItem="5gi-M3-zSr" secondAttribute="bottom" constant="5" id="nrq-A7-M66"/>
+                            </constraints>
+                        </view>
+                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GHj-sm-zgs">
+                            <rect key="frame" x="0.0" y="50" width="375" height="300"/>
+                            <subviews>
+                                <tableView clipsSubviews="YES" contentMode="scaleToFill" bounces="NO" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" bouncesZoom="NO" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="Qg9-Bk-c5e">
+                                    <rect key="frame" x="20" y="40" width="335" height="252"/>
+                                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </tableView>
+                                <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="a8h-OD-fcm" customClass="UILocalizedSegmentedControl" customModule="Instacam" customModuleProvider="target">
+                                    <rect key="frame" x="20" y="8" width="335" height="29"/>
+                                    <segments>
+                                        <segment title="Locations"/>
+                                        <segment title="Events"/>
+                                    </segments>
+                                    <connections>
+                                        <action selector="btnSegment:" destination="-1" eventType="valueChanged" id="n4g-SU-Zi1"/>
+                                    </connections>
+                                </segmentedControl>
+                            </subviews>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <constraints>
+                                <constraint firstItem="a8h-OD-fcm" firstAttribute="top" secondItem="GHj-sm-zgs" secondAttribute="top" constant="8" id="0XL-CH-BMI"/>
+                                <constraint firstItem="Qg9-Bk-c5e" firstAttribute="leading" secondItem="GHj-sm-zgs" secondAttribute="leading" constant="20" id="8jN-xa-gWq"/>
+                                <constraint firstItem="a8h-OD-fcm" firstAttribute="leading" secondItem="GHj-sm-zgs" secondAttribute="leading" constant="20" id="en0-up-i0G"/>
+                                <constraint firstAttribute="trailing" secondItem="Qg9-Bk-c5e" secondAttribute="trailing" constant="20" id="hE2-JK-qSs"/>
+                                <constraint firstItem="Qg9-Bk-c5e" firstAttribute="top" secondItem="a8h-OD-fcm" secondAttribute="bottom" constant="4" id="heI-nj-MgQ"/>
+                                <constraint firstAttribute="trailing" secondItem="a8h-OD-fcm" secondAttribute="trailing" constant="20" id="kXW-uJ-faI"/>
+                                <constraint firstAttribute="bottom" secondItem="Qg9-Bk-c5e" secondAttribute="bottom" constant="8" id="xUt-ux-5Uf"/>
+                            </constraints>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="y32-vG-PmB" secondAttribute="trailing" id="1ma-IC-004"/>
+                        <constraint firstItem="y32-vG-PmB" firstAttribute="leading" secondItem="Cpl-8J-K18" secondAttribute="leading" id="Rks-aN-RQe"/>
+                        <constraint firstItem="y32-vG-PmB" firstAttribute="top" secondItem="Cpl-8J-K18" secondAttribute="top" id="Ypj-xZ-57Z"/>
+                        <constraint firstAttribute="trailing" secondItem="GHj-sm-zgs" secondAttribute="trailing" id="gDc-ft-gHE"/>
+                        <constraint firstItem="GHj-sm-zgs" firstAttribute="leading" secondItem="Cpl-8J-K18" secondAttribute="leading" id="hio-hh-vfo"/>
+                        <constraint firstItem="GHj-sm-zgs" firstAttribute="top" secondItem="y32-vG-PmB" secondAttribute="bottom" id="nz4-v5-zkR"/>
+                        <constraint firstAttribute="bottom" secondItem="GHj-sm-zgs" secondAttribute="bottom" id="vnl-x3-e3c"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="Wa4-GE-eos" firstAttribute="bottom" secondItem="Cpl-8J-K18" secondAttribute="bottom" id="0t7-gJ-oLp"/>
+                <constraint firstItem="Cpl-8J-K18" firstAttribute="top" secondItem="Wa4-GE-eos" secondAttribute="top" id="31a-O1-gEo"/>
+                <constraint firstItem="Wa4-GE-eos" firstAttribute="trailing" secondItem="Cpl-8J-K18" secondAttribute="trailing" id="GBr-Le-dc4"/>
+                <constraint firstItem="Cpl-8J-K18" firstAttribute="leading" secondItem="Wa4-GE-eos" secondAttribute="leading" id="S3w-u0-FNa"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="Wa4-GE-eos"/>
+            <point key="canvasLocation" x="297" y="62"/>
+        </view>
+    </objects>
+    <resources>
+        <namedColor name="AppDarkSkyBlue">
+            <color red="0.0" green="0.52156862745098043" blue="0.96470588235294119" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>
